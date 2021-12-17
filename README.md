@@ -49,3 +49,11 @@ HTML5, CCS3, JavaScript (стандарт ES6), ООП, Адаптивная в�
 [![JavaScript](https://user-images.githubusercontent.com/86494748/140336146-46011848-d684-4c61-a226-0382c7940591.png)](https://learn.javascript.ru/)
 [![Adobe XD](https://user-images.githubusercontent.com/86494748/128685319-41947758-4068-42c4-af18-e026adeaee0e.png)](https://www.adobe.com/ru/products/xd.html)
 [![Figma](https://user-images.githubusercontent.com/86494748/128634191-0004bde6-f8ac-47cb-8b74-f2848f35cae7.png)](https://www.figma.com/)
+
+#### 📫 Написать мне:
+[![Mail Badge](https://img.shields.io/badge/-ia_stepanov-1ca0f1?style=flat&labelColor=1ca0f1&logo=telegram&logoColor=white)](https://t.me/) 
+[![Mail Badge](https://img.shields.io/badge/-@ia_stepanov-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/ia_stepanov) 
+[![Mail Badge](https://img.shields.io/badge/-igorstepanov.adobe-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:igorstepanov.adobe@gmail.com)
+
+#### Счетчик посещений
+![visitors](https://visitor-badge.glitch.me/badge?page_id=dimario-one.dimario-one)
