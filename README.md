@@ -8,14 +8,20 @@
  
 Проект **How to Learn**
 
-Функционал:    
+**Функционал:**      
 -Использование CSS-анимации;     
 -Встроенные видео (YouTube IFrame Player API).     
 
-Технологический стек:     
-HTML5, CSS3: Flexbox, Positioning, Adaptive UI, Media Queries;     
-Методология БЭМ, Файловая структура Nested БЭМ;     
-Работа с медиафайлами (HTML-video, iframe), Вёрстка по макету в Figma.    
+**Технологический стек:**       
+HTML5,   
+CSS3: Flexbox,   
+Positioning,   
+Adaptive UI,   
+Media Queries,     
+Методология БЭМ,   
+Файловая структура Nested БЭМ,      
+Работа с медиафайлами (HTML-video, iframe),    
+Вёрстка по макету в Figma.      
 
 **Ссылка на проект -** https://dimario-one.github.io/how-to-learn/    
 
