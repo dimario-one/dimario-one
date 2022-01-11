@@ -34,7 +34,6 @@
 [![Git](https://user-images.githubusercontent.com/86494748/128634186-d1b69fc3-322b-4344-89d0-615670eaaa93.png)](https://git-scm.com/)
 [![HTML5](https://user-images.githubusercontent.com/86494748/128634189-e6ded326-aeb9-4f8d-8508-f0fcd7f1d891.png)](https://html5book.ru/html-html5/)
 [![CSS3](https://user-images.githubusercontent.com/86494748/128634188-71178ce2-89cf-4283-9f5a-87ff5d3b4854.png)](https://html5book.ru/css-css3/)
-[![SASS](https://user-images.githubusercontent.com/86494748/128634190-68bcdb42-0c07-49e4-b7b6-0bc98b4a1342.png)](https://sass-scss.ru/)
 [![JavaScript](https://user-images.githubusercontent.com/86494748/140336146-46011848-d684-4c61-a226-0382c7940591.png)](https://learn.javascript.ru/)
 [![Figma](https://user-images.githubusercontent.com/86494748/128634191-0004bde6-f8ac-47cb-8b74-f2848f35cae7.png)](https://www.figma.com/)
 
